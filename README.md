@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Example
+<!-- # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
@@ -20,4 +20,36 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)). -->
+
+
+
+### This is a spotify clone built for learning
+___
+# To Get Started
+
+## first
+
+Clone this github repository
+```
+git clone https://github.com/mufeedcm/spotify-2.git
+```
+___
+## then 
+
+```bash
+run npm install
+# or 
+run yarn install
+```
+___
+## then 
+
+```bash
+run npm run dev
+# or
+run yarn dev
+```
+___
+thanks for checking this repository
+___
